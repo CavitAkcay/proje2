@@ -1,2 +1,3 @@
 benim calismam
 new ADRES
+baska developer fonksiyonu
